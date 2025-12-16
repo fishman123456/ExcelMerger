@@ -7,15 +7,15 @@
             <TextBlock FontWeight="Bold" FontSize="16">Объединение Excel по первому столбцу</TextBlock>
 
             <GroupBox Header="Файл 1">
-                <StackPanel Orientation="Horizontal" Margin="5">
-                    <TextBox x:Name="TxtFile1" Width="350" IsReadOnly="True" Margin="0,0,10,0"/>
+                <StackPanel Orientation="Horizontal" Margin="5" MinWidth="50">
+                    <TextBox x:Name="TxtFile1" Width="auto" IsReadOnly="True" Margin="0,0,10,0" MinWidth="50"/>
                     <Button Content="Выбрать..." Click="BrowseFile1_Click"/>
                 </StackPanel>
             </GroupBox>
 
             <GroupBox Header="Файл 2">
                 <StackPanel Orientation="Horizontal" Margin="5">
-                    <TextBox x:Name="TxtFile2" Width="350" IsReadOnly="True" Margin="0,0,10,0"/>
+                    <TextBox x:Name="TxtFile2" Width="auto" IsReadOnly="True" Margin="0,0,10,0" MinWidth="50"/>
                     <Button Content="Выбрать..." Click="BrowseFile2_Click"/>
                 </StackPanel>
             </GroupBox>

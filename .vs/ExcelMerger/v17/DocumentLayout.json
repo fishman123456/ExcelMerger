@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\ExcelMerger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F02D0CF2-734E-4C40-B89A-89D31ECB95DE}|ExcelMerger.csproj|d:\\github\\excelmerger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F02D0CF2-734E-4C40-B89A-89D31ECB95DE}|ExcelMerger.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F02D0CF2-734E-4C40-B89A-89D31ECB95DE}|ExcelMerger.csproj|D:\\Github\\ExcelMerger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F02D0CF2-734E-4C40-B89A-89D31ECB95DE}|ExcelMerger.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F02D0CF2-734E-4C40-B89A-89D31ECB95DE}|ExcelMerger.csproj|d:\\github\\excelmerger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F02D0CF2-734E-4C40-B89A-89D31ECB95DE}|ExcelMerger.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F02D0CF2-734E-4C40-B89A-89D31ECB95DE}|ExcelMerger.csproj|d:\\github\\excelmerger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02D0CF2-734E-4C40-B89A-89D31ECB95DE}|ExcelMerger.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,18 +67,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Github\\ExcelMerger\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\Github\\ExcelMerger\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-16T04:08:46.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Github\\ExcelMerger\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -87,6 +75,18 @@
               "ViewState": "AgIAAFoAAAAAAAAAAAAlwGoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T04:08:44.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Github\\ExcelMerger\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Github\\ExcelMerger\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-16T04:08:46.714Z",
               "EditorCaption": ""
             }
           ]
